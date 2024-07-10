@@ -1,0 +1,23 @@
+/* Write your CSS code here */
+.nav-bg-container {
+  height: 20vh;
+  display: flex;
+  justify-content: space-around;
+}
+.wave-image {
+  height: 24px;
+  width: 24px;
+  margin-right: 16px;
+}
+.wave-logo-container {
+  display: flex;
+}
+.blogs-container {
+  display: flex;
+}
+.blogs-style {
+  color: #551e53;
+  font-size: 16px;
+  margin-right: 16px;
+  list-style-type: none;
+}
